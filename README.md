@@ -1,6 +1,4 @@
-# Adamscript
-
-Red Team Automation Toolbox
+# Red Team Automation Toolbox
 
 Ce projet vise à automatiser les actions de la Red Team pour améliorer l'efficacité et gagner du temps dans les opérations de sécurité. Il fournit un ensemble de scripts qui couvrent différentes étapes, telles que la reconnaissance automatisée, l'analyse de vulnérabilités, l'exploitation, la collecte de renseignements sur les menaces, la surveillance des journaux et la génération de rapports.
 
