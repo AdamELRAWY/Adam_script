@@ -1,6 +1,6 @@
 # Scripts pour GitHub
 
-Ce dépôt contient une collection de scripts pour diverses tâches liées à la sécurité informatique. Chaque script est conçu pour effectuer une tâche spécifique. Voici une description de chaque script, ainsi que les prérequis et les instructions pour les exécuter :
+Ce dépôt contient une collection de scripts pour diverses tâches liées à la sécurité informatique. Chaque script est conçu pour effectuer une tâche spécifique. Voici une description de chaque script, ainsi que les prérequis et les instructions pour les exécuter : (a savoir certains script sont modifiable, ils sont actuellement configurer pour etre lancé depuis Linux)
 
 ## Script 1 : Brute-Force Attack
 Ce script permet d'effectuer une attaque de force brute sur une page de connexion en utilisant Hydra. Il demande à l'utilisateur de fournir l'URL cible et l'endpoint de la page de connexion. Assurez-vous d'avoir Hydra installé sur votre système avant d'exécuter ce script.
