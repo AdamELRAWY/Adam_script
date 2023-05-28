@@ -56,7 +56,13 @@ Ce script utilise l'API Shodan pour effectuer une reconnaissance sur une cible d
 
 Prérequis :
 - Clé API Shodan
-- Installer aquatone avec https://securitytrails.com/blog/aquatone
+- Installer aquatone avec - wget https://github.com/michenriksen/aquatone/releases/download/v1.7.0/aquatone_linux_amd64_1.7.0.zip
+                          - unzip aquatone_linux_amd64_1.7.0.zip
+                          - sudo mv aquatone /usr/local/bin
+- Installer subfinder avec  sudo apt install subfinder
+- installer waybackurls avec - wget github.com/tomnomnom/waybackurls
+                             - sudo chmod +x waybackurls
+                             - sudo mv waybackurls /usr/local/bin
 
 Instructions :
 1. Exécutez le script.
