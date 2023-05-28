@@ -56,6 +56,7 @@ Ce script utilise l'API Shodan pour effectuer une reconnaissance sur une cible d
 
 Prérequis :
 - Clé API Shodan
+- Installer aquatone avec https://securitytrails.com/blog/aquatone
 
 Instructions :
 1. Exécutez le script.
