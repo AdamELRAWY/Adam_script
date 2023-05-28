@@ -28,12 +28,6 @@ if ! [ -x "$(command -v subfinder)" ]; then
   exit 1
 fi
 
-# Check if WaybackURLs is installed
-if ! [ -x "$(command -v waybackurls)" ]; then
-  echo "Error: WaybackURLs is not installed." >&2
-  exit 1
-fi
-
 # Use Amass to enumerate subdomains
 echo "Running Amass to enumerate subdomains..."
 amass enum -d $domain -o amass-output.txt
@@ -45,9 +39,5 @@ cat amass-output.txt | aquatone -out aquatone-report
 # Use SubFinder to find additional subdomains
 echo "Running SubFinder to find additional subdomains..."
 subfinder -d $domain -o subfinder-output.txt
-
-# Use WaybackURLs to find historical URLs for the domain
-echo "Running WaybackURLs to find historical URLs..."
-waybackurls $domain | tee waybackurls-output.txt
 
 echo "Reconnaissance process complete!"
