@@ -21,7 +21,6 @@ Prérequis :
 - Amass installé
 - Aquatone installé
 - SubFinder installé
-- WaybackURLs installé
 
 Instructions :
 1. Exécutez le script.
