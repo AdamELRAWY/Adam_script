@@ -84,5 +84,18 @@ Instructions :
 2. Suivez les instructions pour fournir l'URL cible.
 3. L'attaque de force brute sera exécutée et les résultats seront enregistrés dans un fichier.
 
-Note : Assurez-vous de respecter les prérequis et les instructions spécifiques pour chaque script avant de les exécuter.
+## Script 8 : Fichiers et répertoires
 
+Ce script sert d'outil pour certaines actions spécifiées comme chiffrer des fichiers ou des répertoires.
+
+Objectif:
+
+  .   Créer une archive tar compressée de fichiers ou de répertoires
+  .   Désarchiver l'archive tar compressée
+  .   Chiffrer des fichiers ou des répertoires
+  .   Décrypter le fichier .gpg crypté
+
+Instructions :
+
+1. Exécutez le script et connaitre toute les commandes possibles : ./action-on-objectives.sh -h.
+2. Suivre les instructions.
