@@ -14,6 +14,8 @@ Instructions :
 3. Entrez l'endpoint de la page de connexion lorsque vous y êtes invité.
 4. L'attaque de force brute sera exécutée et les résultats seront affichés à la fin.
 
+![Cover](https://raw.githubusercontent.com/AdamELRAWY/Adam_script/main/Imagines/1.png)
+
 ## Script 2 : Reconnaissance
 Ce script effectue une reconnaissance sur un domaine cible en utilisant des outils tels que Amass, Aquatone, SubFinder et WaybackURLs. Il récupère les sous-domaines, scanne les sous-domaines découverts, recherche des URL historiques, etc.
 
@@ -83,6 +85,8 @@ Instructions :
 1. Exécutez le script.
 2. Suivez les instructions pour fournir l'URL cible.
 3. L'attaque de force brute sera exécutée et les résultats seront enregistrés dans un fichier.
+
+![Cover](https://raw.githubusercontent.com/AdamELRAWY/Adam_script/main/Imagines/2.png)
 
 ## Script 8 : Fichiers et répertoires
 
