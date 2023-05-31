@@ -29,6 +29,8 @@ Instructions :
 2. Suivez les instructions pour fournir le domaine cible.
 3. Le script exécutera les différentes étapes de reconnaissance et générera un rapport.
 
+![Cover](https://raw.githubusercontent.com/AdamELRAWY/Adam_script/main/Imagines/4.png)
+
 ## Script 3 : Injection SQL
 Ce script effectue une attaque d'injection SQL en utilisant sqlmap. Il demande à l'utilisateur de fournir l'URL cible et le point d'injection.
 
