@@ -17,7 +17,6 @@ if ! [ -x "$(command -v dirb)" ]; then
   exit 1
 fi
 
-
 # Perform the directory bruteforce attack with DirB
 echo "Running directory bruteforce attack with DirB..."
 dirb "$url" "$wordlist" >> "$output_file"
