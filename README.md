@@ -77,6 +77,7 @@ Ce script effectue une attaque de force brute sur une URL cible en utilisant Dir
 
 Prérequis :
 - DirB installé
+- Pandoc installé
 
 Instructions :
 1. Exécutez le script.
