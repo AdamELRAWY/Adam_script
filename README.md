@@ -40,6 +40,8 @@ Instructions :
 2. Suivez les instructions pour fournir l'URL cible et le point d'injection.
 3. L'attaque d'injection SQL sera exécutée et les résultats seront affichés à la fin.
 
+![Cover](https://raw.githubusercontent.com/AdamELRAWY/Adam_script/main/Imagines/3.png)
+
 ## Script 4 : Shodan Reconnaissance
 Ce script utilise l'API Shodan pour effectuer une reconnaissance sur une cible donnée. Il recherche des informations telles que les titres de page, les ports ouverts, les bannières de services, etc.
 
