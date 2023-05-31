@@ -1,4 +1,4 @@
-# Scripts pour GitHub
+# Scripts
 
 Ce dépôt contient une collection de scripts pour diverses tâches liées à la sécurité informatique. Chaque script est conçu pour effectuer une tâche spécifique. Voici une description de chaque script, ainsi que les prérequis et les instructions pour les exécuter : (A savoir certains script sont modifiable, ils sont actuellement configurer pour etre lancé depuis Linux)
 
